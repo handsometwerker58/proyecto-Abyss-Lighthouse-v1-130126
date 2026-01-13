@@ -1,0 +1,7 @@
+{
+  "name": "Abyss Lighthouse",
+  "description": "A cold, minimalist, and utilitarian command center for personal order reconstruction, transforming emotional friction into productive output.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
